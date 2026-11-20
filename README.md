@@ -37,8 +37,6 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" title="bootstrap" />
 <img width="12" />
-<img src="assets/icons/brmodelo.svg" height="40" alt="brmodelo logo" title="brmodelo" />
-<img width="12" />
 <img src="assets/icons/cisco-packet-tracer.svg" height="40" alt="cisco packet tracer logo" title="cisco packet tracer" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/claude/claude-original.svg" height="40" alt="claude logo" title="claude" />
@@ -56,6 +54,8 @@
 <img src="assets/icons/heidisql.png" height="40" alt="heidisql logo" title="heidisql" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" title="html5" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="40" alt="insomnia logo" title="insomnia" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" title="java" />
 <img width="12" />
@@ -82,6 +82,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo" title="trello" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" title="vscode" />
+<img width="12" />
+<img src="assets/icons/xampp.svg" height="40" alt="xampp logo" title="xampp" />
 </div>
 
 ###
