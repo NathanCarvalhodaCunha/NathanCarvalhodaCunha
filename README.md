@@ -39,21 +39,39 @@
 <img width="8" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="36" alt="bootstrap logo" title="bootstrap" />
 <img width="8" />
+<img src="assets/icons/brevo.svg" height="36" alt="brevo logo" title="brevo" />
+<img width="8" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-original.svg" height="36" alt="chart.js logo" title="chart.js" />
+<img width="8" />
 <img src="assets/icons/cisco-packet-tracer.svg" height="36" alt="cisco packet tracer logo" title="cisco packet tracer" />
 <img width="8" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/claude/claude-original.svg" height="36" alt="claude logo" title="claude" />
 <img width="8" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/claudecode/claudecode-original.svg" height="36" alt="claude code logo" title="claude code" />
 <img width="8" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="36" alt="cloudflare logo" title="cloudflare" />
+<img width="8" />
+<img src="assets/icons/cloudinary.svg" height="36" alt="cloudinary logo" title="cloudinary" />
+<img width="8" />
 <img src="assets/icons/command-prompt.svg" height="36" alt="command prompt logo" title="command prompt" />
 <img width="8" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="css logo" title="css" />
 <img width="8" />
+<img src="assets/icons/espressif.svg" height="36" alt="esp32 (espressif) logo" title="esp32 (espressif)" />
+<img width="8" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="git logo" title="git" />
+<img width="8" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="36" alt="github actions logo" title="github actions" />
 <img width="8" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="36" alt="google logo" title="google" />
 <img width="8" />
+<img src="assets/icons/gsap.svg" height="36" alt="gsap logo" title="gsap" />
+<img width="8" />
+<img src="assets/icons/h2database.svg" height="36" alt="h2 database logo" title="h2 database" />
+<img width="8" />
 <img src="assets/icons/heidisql.png" height="36" alt="heidisql logo" title="heidisql" />
+<img width="8" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="36" alt="hibernate logo" title="hibernate" />
 <img width="8" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="html5 logo" title="html5" />
 <img width="8" />
@@ -63,9 +81,13 @@
 <img width="8" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="javascript logo" title="javascript" />
 <img width="8" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jwt/jwt-original.svg" height="36" alt="jwt logo" title="jwt" />
+<img width="8" />
 <img src="assets/icons/kiro.svg" height="36" alt="kiro logo" title="kiro" />
 <img width="8" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36" alt="linux logo" title="linux" />
+<img width="8" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="36" alt="maven logo" title="maven" />
 <img width="8" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="mysql logo" title="mysql" />
 <img width="8" />
@@ -77,6 +99,8 @@
 <img width="8" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="python logo" title="python" />
 <img width="8" />
+<img src="assets/icons/render.svg" height="36" alt="render logo" title="render" />
+<img width="8" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="36" alt="spring logo" title="spring" />
 <img width="8" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="36" alt="tailwind css logo" title="tailwind css" />
@@ -84,6 +108,12 @@
 <img src="assets/icons/termux.png" height="36" alt="termux logo" title="termux" />
 <img width="8" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="36" alt="trello logo" title="trello" />
+<img width="8" />
+<img src="assets/icons/usbwebserver.png" height="36" alt="usbwebserver logo" title="usbwebserver" />
+<img width="8" />
+<img src="assets/icons/vercel.svg" height="36" alt="vercel logo" title="vercel" />
+<img width="8" />
+<img src="assets/icons/virtualbox.svg" height="36" alt="virtualbox logo" title="virtualbox" />
 <img width="8" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36" alt="vscode logo" title="vscode" />
 <img width="8" />
