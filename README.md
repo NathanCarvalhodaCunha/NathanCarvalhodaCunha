@@ -14,7 +14,6 @@
 <a href="https://www.instagram.com/nathancarvalho_dev" target="_blank">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
 </a>
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
 </div>
 
 ###
@@ -33,7 +32,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm a Systems Development technical student from Brazil 🇧🇷 who loves building full stack web apps and connecting software to hardware.<br><br>- 🎓 I'm studying High School + Technical Course in Systems Development (graduating Dec 2026)<br>- 💼 I'm working as a Young Apprentice (Administrative Assistant) in the paper industry<br>- 🚀 My final project (TCC) is Rehabit: a physiotherapy tracking system integrated with an ESP32 digital goniometer<br>- 🌱 I'm currently learning Java & Spring Boot, cybersecurity and IoT<br>- 📜 Certifications: Cisco Cybersecurity (Intro & Intermediate), SQL Databases, Power BI, JavaScript and Python<br>- 🍬 I built a website and a management system for my family's business, Cocada da Cris<br>- 💬 Discord: iblack_s2</p>
+<p data-importer="text" align="left">I'm a Systems Development technical student from Brazil 🇧🇷 who loves building full stack web apps and connecting software to hardware.<br><br>- 🎓 I'm studying High School + Technical Course in Systems Development (graduating Dec 2026)<br>- 💼 I'm working as a Young Apprentice (Administrative Assistant) in the paper industry<br>- 🚀 My final project (TCC) is Rehabit: a physiotherapy tracking system integrated with an ESP32 digital goniometer<br>- 🌱 I'm currently learning Java & Spring Boot, cybersecurity and IoT<br>- 📜 Certifications: Cisco Cybersecurity (Intro & Intermediate), SQL Databases, Power BI, JavaScript and Python<br>- 🍬 I built a website and a management system for my family's business, Cocada da Cris</p>
 
 ###
 
