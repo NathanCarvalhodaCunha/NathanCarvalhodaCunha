@@ -27,67 +27,67 @@
 ###
 
 <div data-importer="techs" align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="android studio logo" title="android studio" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="36" alt="android studio logo" title="android studio" />
 <img width="8" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" height="40" alt="apache netbeans logo" title="apache netbeans" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" height="36" alt="apache netbeans logo" title="apache netbeans" />
 <img width="8" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" title="arduino" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="36" alt="arduino logo" title="arduino" />
 <img width="8" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain.svg" height="40" alt="aws logo" title="aws" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain.svg" height="36" alt="aws logo" title="aws" />
 <img width="8" />
-<img src="assets/icons/biscuit-manager.png" height="40" alt="biscuit manager logo" title="biscuit manager" />
+<img src="assets/icons/biscuit-manager.png" height="36" alt="biscuit manager logo" title="biscuit manager" />
 <img width="8" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" title="bootstrap" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="36" alt="bootstrap logo" title="bootstrap" />
 <img width="8" />
-<img src="assets/icons/cisco-packet-tracer.svg" height="40" alt="cisco packet tracer logo" title="cisco packet tracer" />
+<img src="assets/icons/cisco-packet-tracer.svg" height="36" alt="cisco packet tracer logo" title="cisco packet tracer" />
 <img width="8" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/claude/claude-original.svg" height="40" alt="claude logo" title="claude" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/claude/claude-original.svg" height="36" alt="claude logo" title="claude" />
 <img width="8" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/claudecode/claudecode-original.svg" height="40" alt="claude code logo" title="claude code" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/claudecode/claudecode-original.svg" height="36" alt="claude code logo" title="claude code" />
 <img width="8" />
-<img src="assets/icons/command-prompt.svg" height="40" alt="command prompt logo" title="command prompt" />
+<img src="assets/icons/command-prompt.svg" height="36" alt="command prompt logo" title="command prompt" />
 <img width="8" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" title="css" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="css logo" title="css" />
 <img width="8" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" title="git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="git logo" title="git" />
 <img width="8" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo" title="google" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="36" alt="google logo" title="google" />
 <img width="8" />
-<img src="assets/icons/heidisql.png" height="40" alt="heidisql logo" title="heidisql" />
+<img src="assets/icons/heidisql.png" height="36" alt="heidisql logo" title="heidisql" />
 <img width="8" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" title="html5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="html5 logo" title="html5" />
 <img width="8" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="40" alt="insomnia logo" title="insomnia" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="36" alt="insomnia logo" title="insomnia" />
 <img width="8" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" title="java" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="java logo" title="java" />
 <img width="8" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" title="javascript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="javascript logo" title="javascript" />
 <img width="8" />
-<img src="assets/icons/kiro.svg" height="40" alt="kiro logo" title="kiro" />
+<img src="assets/icons/kiro.svg" height="36" alt="kiro logo" title="kiro" />
 <img width="8" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" title="linux" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36" alt="linux logo" title="linux" />
 <img width="8" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" title="mysql" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="mysql logo" title="mysql" />
 <img width="8" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="node.js logo" title="node.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="node.js logo" title="node.js" />
 <img width="8" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" title="php" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="36" alt="php logo" title="php" />
 <img width="8" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" title="postgresql" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" alt="postgresql logo" title="postgresql" />
 <img width="8" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" title="python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="python logo" title="python" />
 <img width="8" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" title="spring" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="36" alt="spring logo" title="spring" />
 <img width="8" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind css logo" title="tailwind css" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="36" alt="tailwind css logo" title="tailwind css" />
 <img width="8" />
-<img src="assets/icons/termux.png" height="40" alt="termux logo" title="termux" />
+<img src="assets/icons/termux.png" height="36" alt="termux logo" title="termux" />
 <img width="8" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo" title="trello" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="36" alt="trello logo" title="trello" />
 <img width="8" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" title="vscode" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36" alt="vscode logo" title="vscode" />
 <img width="8" />
-<img src="assets/icons/xampp.svg" height="40" alt="xampp logo" title="xampp" />
+<img src="assets/icons/xampp.svg" height="36" alt="xampp logo" title="xampp" />
 </div>
 
 ###
