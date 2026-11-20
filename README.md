@@ -1,13 +1,5 @@
 <div data-importer="socials" align="center">
-<a href="https://www.linkedin.com/in/nathan-carvalho-da-cunha-654b9b302" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-</a>
-<a href="mailto:nathancavalhodacunha@gmail.com" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-</a>
-<a href="https://www.instagram.com/nathancarvalho_dev" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
-</a>
+<a href="https://www.linkedin.com/in/nathan-carvalho-da-cunha-654b9b302" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" alt="linkedin logo" /></a>&nbsp;&nbsp;<a href="mailto:nathancavalhodacunha@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="40" alt="gmail logo" /></a>&nbsp;&nbsp;<a href="https://www.instagram.com/nathancarvalho_dev" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" height="40" alt="instagram logo" /></a>
 </div>
 
 ###
@@ -26,7 +18,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm a Systems Development technical student from Brazil 🇧🇷 who loves building full stack web apps and connecting software to hardware.<br><br>- 🎓 I'm studying High School + Technical Course in Systems Development (graduating Dec 2026)<br>- 💼 I'm working as a Young Apprentice (Administrative Assistant) in the paper industry<br>- 🚀 My final project (TCC) is Rehabit: a physiotherapy tracking system integrated with an ESP32 digital goniometer<br>- 🌱 I'm currently learning Java & Spring Boot, cybersecurity and IoT<br>- 📜 Certifications: Cisco Cybersecurity (Intro & Intermediate), SQL Databases, Power BI, JavaScript and Python<br>- 🍬 I built a website and a management system for my family's business, Cocada da Cris</p>
+<p data-importer="text" align="left">I'm a Systems Development technical student from Brazil 🇧🇷 who loves building full stack web apps and connecting software to hardware.<br><br>- 🎓 I'm studying High School + Technical Course in Systems Development (graduating Dec 2026)<br>- 💼 I'm working as a Young Apprentice (Administrative Assistant) in the paper industry<br>- 🚀 My final project (TCC) is <a href="https://rehabit.com.br">Rehabit</a>: a physiotherapy tracking system integrated with an ESP32 digital goniometer<br>- 🌱 I'm currently learning Java & Spring Boot, cybersecurity and IoT<br>- 📜 Certifications: Cisco Cybersecurity (Intro & Intermediate), SQL Databases, Power BI, JavaScript and Python</p>
 
 ###
 
@@ -52,6 +44,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+<img width="12" />
+<img src="assets/icons/kiro.svg" height="40" alt="kiro logo" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
 <img width="12" />
