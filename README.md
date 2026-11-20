@@ -97,6 +97,8 @@
 <img width="8" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="python logo" title="python" />
 <img width="8" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="react logo" title="react" />
+<img width="8" />
 <img src="assets/icons/render.svg" height="36" alt="render logo" title="render" />
 <img width="8" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="36" alt="spring logo" title="spring" />
@@ -105,13 +107,19 @@
 <img width="8" />
 <img src="assets/icons/termux.png" height="36" alt="termux logo" title="termux" />
 <img width="8" />
+<img src="assets/icons/threejs.svg" height="36" alt="three.js logo" title="three.js" />
+<img width="8" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="36" alt="trello logo" title="trello" />
+<img width="8" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="typescript logo" title="typescript" />
 <img width="8" />
 <img src="assets/icons/usbwebserver.png" height="36" alt="usbwebserver logo" title="usbwebserver" />
 <img width="8" />
 <img src="assets/icons/vercel.svg" height="36" alt="vercel logo" title="vercel" />
 <img width="8" />
 <img src="assets/icons/virtualbox.svg" height="36" alt="virtualbox logo" title="virtualbox" />
+<img width="8" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="36" alt="vite logo" title="vite" />
 <img width="8" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36" alt="vscode logo" title="vscode" />
 <img width="8" />
