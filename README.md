@@ -35,6 +35,8 @@
 <img width="8" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain.svg" height="40" alt="aws logo" title="aws" />
 <img width="8" />
+<img src="assets/icons/biscuit-manager.png" height="40" alt="biscuit manager logo" title="biscuit manager" />
+<img width="8" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" title="bootstrap" />
 <img width="8" />
 <img src="assets/icons/cisco-packet-tracer.svg" height="40" alt="cisco packet tracer logo" title="cisco packet tracer" />
@@ -78,6 +80,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" title="spring" />
 <img width="8" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind css logo" title="tailwind css" />
+<img width="8" />
+<img src="assets/icons/termux.png" height="40" alt="termux logo" title="termux" />
 <img width="8" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo" title="trello" />
 <img width="8" />
