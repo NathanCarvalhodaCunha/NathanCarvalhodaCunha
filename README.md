@@ -67,13 +67,7 @@
 ###
 
 <div align="left">
-<a href="https://www.credly.com/badges/858c9ccf-14ca-4250-b26e-65bb19f473c3/public_url" target="_blank">
-<img src="assets/badges/introduction-to-cybersecurity.png" height="150" alt="Cisco Introduction to Cybersecurity badge" />
-</a>
-<img width="12" />
-<a href="https://www.credly.com/badges/07f9c57b-9f87-494e-89f5-2e9db0a694a3/public_url" target="_blank">
-<img src="assets/badges/cisco-learn-a-thon-2026.png" height="150" alt="Cisco Networking Academy Learn-A-Thon 2026 badge" />
-</a>
+<a href="https://www.credly.com/badges/858c9ccf-14ca-4250-b26e-65bb19f473c3/public_url" target="_blank"><img src="assets/badges/introduction-to-cybersecurity.png" height="150" alt="Cisco Introduction to Cybersecurity badge" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.credly.com/badges/07f9c57b-9f87-494e-89f5-2e9db0a694a3/public_url" target="_blank"><img src="assets/badges/cisco-learn-a-thon-2026.png" height="150" alt="Cisco Networking Academy Learn-A-Thon 2026 badge" /></a>
 </div>
 
 ###
