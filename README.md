@@ -45,8 +45,6 @@
 <img width="8" />
 <img src="assets/icons/cisco-packet-tracer.svg" height="36" alt="cisco packet tracer logo" title="cisco packet tracer" />
 <img width="8" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/claude/claude-original.svg" height="36" alt="claude logo" title="claude" />
-<img width="8" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/claudecode/claudecode-original.svg" height="36" alt="claude code logo" title="claude code" />
 <img width="8" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="36" alt="cloudflare logo" title="cloudflare" />
