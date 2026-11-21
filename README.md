@@ -18,7 +18,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm a Systems Development technical student from Brazil 🇧🇷 who loves building full stack web apps and connecting software to hardware.<br><br>- 🎓 I'm studying High School + Technical Course in Systems Development (graduating Dec 2026)<br>- 💼 I'm working as a Young Apprentice (Administrative Assistant) in the paper industry<br>- 🚀 My final project (TCC) is <a href="https://rehabit.com.br">Rehabit</a>: a physiotherapy tracking system integrated with an ESP32 digital goniometer<br>- 🌱 I'm currently learning Java & Spring Boot, cybersecurity and IoT<br>- 📜 Certifications: Cisco Cybersecurity (Intro & Intermediate), SQL Databases, Power BI, JavaScript and Python</p>
+<p data-importer="text" align="left">I'm a Systems Development technical student from Brazil 🇧🇷 who loves building full stack web apps and connecting software to hardware.<br><br>- 🎓 I'm studying High School + Technical Course in Systems Development (graduating Dec 2026)<br>- 💼 I'm working as a Young Apprentice (Administrative Assistant) in the paper industry<br>- 🚀 My final project (TCC) is <a href="https://rehabit.com.br">Rehabit</a>: a physiotherapy tracking system integrated with an ESP32 digital goniometer<br>- 🌱 I'm currently learning Java & Spring Boot, cybersecurity and IoT<br>- 📜 Certifications: Cisco Introduction to Cybersecurity, SQL Databases, Power BI, JavaScript and Python</p>
 
 ###
 
